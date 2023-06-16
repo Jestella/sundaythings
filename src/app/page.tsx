@@ -14,7 +14,7 @@ export default function Home() {
           priority
         />
         <h4>SUNDAY THINGS</h4>
-        <p>I'm coming soon!</p>
+        <p>I&apos;m coming soon!</p>
       </div>
     </main>
   );
